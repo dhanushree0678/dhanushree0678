@@ -8,13 +8,9 @@
 
 ## 👩‍💻 LeetCode Progress
 
-## 👩‍💻 LeetCode Progress
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/DhanushreeThangaraj?theme=dark&ext=heatmap" alt="LeetCode Stats"/>
 </p>
-
-🔗 **[Visit My LeetCode Profile](https://leetcode.com/u/DhanushreeThangaraj/)**
 
 ---
 
