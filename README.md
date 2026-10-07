@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dhanushree
 
 🎓 Computer Science Engineering Student  
-💻 Aspiring Data Analyst | Python | SQL | Power BI  
+💻 Data Analyst | Python | SQL | Power BI  
 📊 Interested in Data Analytics, Business Intelligence & Data Visualization
 
 ---
@@ -36,10 +36,3 @@
 - Power BI
 - Data Analysis
 - Data Visualization
-- Statistical Analysis
-
-
-
-
-
-⭐ Thanks for visiting my profile
